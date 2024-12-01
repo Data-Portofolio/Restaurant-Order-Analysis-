@@ -1,4 +1,4 @@
-# Restaurant-Order-Analysis-
+# Restaurant Order Analysis
 
 #### **Background**  
 The Taste of the World Cafe debuted a new menu at the start of the year. So, the Data Analyst has been asked to dig into the customer data to see which menu items are doing well/not well and what the top customers seem to like best.  
