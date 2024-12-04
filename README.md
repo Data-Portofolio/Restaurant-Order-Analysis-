@@ -107,13 +107,17 @@ FROM orders_details od;
 
 8. From a **weekday perspective**, customers at this restaurant prefer visiting on **Mondays** and **Fridays**, with peak times during **lunch at 12 PM** and just before **dinner at 5 PM**. However, the day with the **highest customer turnout** is **Wednesday**.
 
-    ![image](https://github.com/user-attachments/assets/b7c6f421-5e69-40b5-900d-6221d559fb3a)
+    
+    https://github.com/user-attachments/assets/db9d1c6d-ae42-4f46-adc8-599d76616142
 
+
+9. 
    
-
     ![image](https://github.com/user-attachments/assets/d0ed1366-664e-48db-b18c-f0cda86261bc)
+    
 
     ![image](https://github.com/user-attachments/assets/cc43d6f2-7b56-477e-9794-7317993d1af3)
+    
 
     ![image](https://github.com/user-attachments/assets/d1bf07d6-f9b1-42d1-9a30-79ddb2354954)
 
