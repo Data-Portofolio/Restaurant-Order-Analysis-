@@ -111,12 +111,20 @@ FROM orders_details od;
     https://github.com/user-attachments/assets/db9d1c6d-ae42-4f46-adc8-599d76616142
 
 
-9. 
-   
-    ![image](https://github.com/user-attachments/assets/d0ed1366-664e-48db-b18c-f0cda86261bc)
+9. When analyzing orders by **month**, the highest number of orders occurred in **January**, while the lowest were observed in **February**. Upon a more detailed examination by **hour**, peak times consistently occur around **12 PM** during lunch and **5 PM** just before dinner throughout all months. When analyzing by **weekdays**, the peak days show some variation; however, **Mondays** and **weekends** are generally favored by customers.
     
+    https://github.com/user-attachments/assets/10a8984a-b488-41f8-8e3b-ce0e489f389b
+   
+  -----------------------------------------------------------------------------------------------------
+   
+  
+  ![image](https://github.com/user-attachments/assets/d0ed1366-664e-48db-b18c-f0cda86261bc)
+      
+  ------------------
 
-    ![image](https://github.com/user-attachments/assets/cc43d6f2-7b56-477e-9794-7317993d1af3)
+   ![image](https://github.com/user-attachments/assets/cc43d6f2-7b56-477e-9794-7317993d1af3)
+
+11. Here is the chart showing the **order IDs** with the highest total number of items purchased.
     
 
     ![image](https://github.com/user-attachments/assets/d1bf07d6-f9b1-42d1-9a30-79ddb2354954)
