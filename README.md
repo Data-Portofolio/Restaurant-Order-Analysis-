@@ -1,5 +1,20 @@
-# Ｒｅｓｔａｕｒａｎｔ Ｏｒｄｅｒ Ａｎａｌｙｓｉｓ
 
+<h3 align='center'>Ｒｅｓｔａｕｒａｎｔ Ｏｒｄｅｒ Ａｎａｌｙｓｉｓ</h3>
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/1c21d320-c158-4fcc-b269-b7dc2def987d)" width="250" height="150" />
+</p>
+
+<p align='center'>
+    <a href='https://github.com/astutir'><img alt='Follow Me on GitHub' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/astutir?style=for-the-badge&&label=GitHub&logo=Github&color=green'/>
+    </a>
+     <a href='https://www.linkedin.com/in/a-rahmawati' target='_blank'><img alt='Follow Me on LinkedIn' title='Follow Me on LinkedIn' src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Profile'/>
+    </a>
+    <a href='https://public.tableau.com/app/profile/astuti.rahma/viz/CustomerChurnDASHBOARD/Dashboard8' target='_blank'>
+    <img src='https://img.shields.io/badge/Tableau-Visit%20Dashboard-grey?style=for-the-badge&logo=tableau&logoColor=white&labelColor=red' alt='Tableau Public Profile'/>
+</a>
+
+</p>
 ## Business Undestanding
 ### **Background**  
 The Taste of the World Cafe debuted a new menu at the start of the year. So, the Data Analyst has been asked to dig into the customer data to see which menu items are doing well/not well and what the top customers seem to like best.  
