@@ -1,4 +1,4 @@
-# Restaurant Order Analysis
+# Ｒｅｓｔａｕｒａｎｔ Ｏｒｄｅｒ Ａｎａｌｙｓｉｓ
 
 ## Business Undestanding
 ### **Background**  
@@ -129,6 +129,11 @@ FROM orders_details od;
 
     https://github.com/user-attachments/assets/947d7ea3-21ab-490f-b514-2669a6bbb2ec
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<p align="center">
+    :copyright: 2024 | A-Rahmawati </p>
+</h3>
 
 
 
