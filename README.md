@@ -1,11 +1,28 @@
-
-<h3 align='center'>Ｒｅｓｔａｕｒａｎｔ Ｏｒｄｅｒ Ａｎａｌｙｓｉｓ</h3>
-
- width="250" height="150"
+<h3 align="center">Ｒｅｓｔａｕｒａｎｔ Ｏｒｄｅｒ Ａｎａｌｙｓｉｓ</h3>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/71a24c0f-af53-4ce7-b30f-c4bd638f179c)"  width="350" height="250" />
+  <img src="https://github.com/user-attachments/assets/bb849249-3682-4095-88a2-cef169bbef22" alt="Restaurant Order Analysis Chart">
 </p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=600&color=142D81&background=C6FF4100&center=true&vCenter=true&random=true&width=435&lines=A+Guide+Project+at+Maven+Analytics;using+SQL%2BTABLEAU" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/astutir" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/a-rahmawati/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/Data-Portofolio/Restaurant-Order-Analysis-" target="_blank">
+    <img src="https://img.shields.io/github/stars/Data-Portofolio/Restaurant-Order-Analysis-?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=yellow" alt="Star Badge">
+  </a>
+</div>
+
+
 
 
 ## Business Undestanding
