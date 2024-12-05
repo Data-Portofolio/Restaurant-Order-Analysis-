@@ -43,7 +43,7 @@ Data Playground at Maven Analytics
 
 ## Data Understanding
 ### Dataset Information
-Dataset Restaurant Order ini memiliki 2 table yang meliputi `menu_items` dan.
+Dataset Restaurant Order ini memiliki 2 table yang meliputi `menu_items` dan `orders_details`.
 
 #### 1. `menu_items` : 4 features with 32 records
 
