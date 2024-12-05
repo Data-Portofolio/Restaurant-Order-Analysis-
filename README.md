@@ -127,7 +127,7 @@ FROM orders_details od;
 11. Here is the chart showing the **order IDs** with the highest total number of items purchased.
     
 
-    ![image](https://github.com/user-attachments/assets/d1bf07d6-f9b1-42d1-9a30-79ddb2354954)
+    https://github.com/user-attachments/assets/947d7ea3-21ab-490f-b514-2669a6bbb2ec
 
 
 
